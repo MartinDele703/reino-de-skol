@@ -1,0 +1,133 @@
+{
+  "aptitud": "car",
+  "ataques": [
+    {
+      "bono": 5,
+      "dano": "1d6+5",
+      "nombre": "Ayerson (tridente)",
+      "nota": "Perforante. Con escudo, incluye Duelo. Arrojado 6/18 m: 1d6+3. A dos manos: 1d8+3."
+    },
+    {
+      "bono": 5,
+      "dano": "1d6+3",
+      "nombre": "Jabalina",
+      "nota": "Perforante. Arrojadiza 9/36 m. Tiene 4."
+    }
+  ],
+  "ca": 18,
+  "clase": "Paladín",
+  "competencias": [
+    "atletismo",
+    "intimidacion",
+    "persuasion",
+    "perspicacia"
+  ],
+  "conjuros": [
+    {
+      "concentracion": true,
+      "desc": "Hasta 3 criaturas suman 1d4 a ataques y salvaciones, 1 minuto.",
+      "nivel": 1,
+      "nombre": "Bendición"
+    },
+    {
+      "concentracion": false,
+      "desc": "Tocando, cura 1d8+3 PG.",
+      "nivel": 1,
+      "nombre": "Curar heridas"
+    },
+    {
+      "concentracion": true,
+      "desc": "Acción adicional: +2 a la CA de una criatura, 10 minutos.",
+      "nivel": 1,
+      "nombre": "Escudo de la fe"
+    },
+    {
+      "concentracion": false,
+      "desc": "Una palabra: salvación de SAB o la obedece en su turno.",
+      "nivel": 1,
+      "nombre": "Orden imperiosa"
+    }
+  ],
+  "espacios": {
+    "1": {
+      "max": 2,
+      "usados": 0
+    }
+  },
+  "estados": [],
+  "inventario": [
+    "Ayerson (tridente)",
+    "4 jabalinas",
+    "Cota de malla",
+    "Escudo",
+    "Símbolo sagrado",
+    "Paquete de explorador",
+    "Insignia de rango de Atlántida",
+    "Juego de dados",
+    "Ropa común",
+    "Cinta de arpillera de los Descalzos",
+    "10 monedas de oro"
+  ],
+  "jugador": "Kike",
+  "nivel": 2,
+  "nombre": "Walvin \"Walvete\" Tritanus",
+  "orden": 2,
+  "pg": 13,
+  "pgMax": 13,
+  "rasgos": [
+    {
+      "desc": "Al acertar cuerpo a cuerpo, gasta 1 espacio para sumar 2d8 de daño radiante (+1d8 contra muertos vivientes e infernales).",
+      "nombre": "Castigo divino"
+    },
+    {
+      "desc": "+2 al daño con un arma a una mano. El escudo no lo impide.",
+      "nombre": "Estilo de combate: Duelo"
+    },
+    {
+      "desc": "Reserva de 10 PG para curar tocando. Con 5 puntos cura una enfermedad o un veneno. Se recupera con descanso largo.",
+      "nombre": "Imposición de manos"
+    },
+    {
+      "desc": "Acción: detecta celestiales, infernales y muertos vivientes a 18 m. 4 usos por descanso largo.",
+      "nombre": "Sentido divino"
+    },
+    {
+      "desc": "Respira aire y agua.",
+      "nombre": "Anfibio"
+    },
+    {
+      "desc": "Nube de niebla, 1 vez por descanso largo o con espacios. A nivel 3 suma Ráfaga de viento; a nivel 5, Caminar sobre el agua.",
+      "nombre": "Control del aire y el agua"
+    },
+    {
+      "desc": "Comunica ideas simples a bestias, elementales y monstruosidades que nadan.",
+      "nombre": "Emisario del mar"
+    },
+    {
+      "desc": "Resistencia al daño de frío.",
+      "nombre": "Guardián de las profundidades"
+    },
+    {
+      "desc": "18 m.",
+      "nombre": "Visión en la oscuridad"
+    },
+    {
+      "desc": "Soldado: los soldados leales a Atlántida reconocen su rango.",
+      "nombre": "Rango militar"
+    }
+  ],
+  "raza": "Tritón",
+  "salvaciones": [
+    "sab",
+    "car"
+  ],
+  "stats": {
+    "car": 16,
+    "con": 13,
+    "des": 10,
+    "fue": 16,
+    "int": 8,
+    "sab": 12
+  },
+  "velocidad": "9 m · nado 9 m"
+}

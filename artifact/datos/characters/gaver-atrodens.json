@@ -1,0 +1,174 @@
+{
+  "aptitud": "int",
+  "ataques": [
+    {
+      "bono": 5,
+      "dano": "1d10",
+      "nombre": "Descarga de fuego",
+      "nota": "Truco. Fuego, alcance 36 m."
+    },
+    {
+      "bono": 4,
+      "dano": "1d4+2",
+      "nombre": "Daga",
+      "nota": "Perforante. Sutil, ligera, arrojadiza 6/18 m."
+    }
+  ],
+  "ca": 12,
+  "clase": "Mago",
+  "competencias": [
+    "arcanos",
+    "investigacion",
+    "historia",
+    "persuasion"
+  ],
+  "conjuros": [
+    {
+      "concentracion": false,
+      "desc": "Ataque a distancia, 1d10 de fuego, 36 m.",
+      "nivel": 0,
+      "nombre": "Descarga de fuego"
+    },
+    {
+      "concentracion": false,
+      "desc": "Trucos menores: chispas, olores, limpiar, encender una vela.",
+      "nivel": 0,
+      "nombre": "Prestidigitación"
+    },
+    {
+      "concentracion": false,
+      "desc": "Un sonido o la imagen de un objeto durante 1 minuto.",
+      "nivel": 0,
+      "nombre": "Ilusión menor"
+    },
+    {
+      "concentracion": false,
+      "desc": "De hada. Efectos naturales menores: una flor que se abre, predecir el clima.",
+      "nivel": 0,
+      "nombre": "Saber druídico"
+    },
+    {
+      "concentracion": false,
+      "desc": "Preparado. CA 15 durante 8 horas.",
+      "nivel": 1,
+      "nombre": "Armadura de mago"
+    },
+    {
+      "concentracion": false,
+      "desc": "Preparado. Reacción: +5 a la CA hasta tu próximo turno.",
+      "nivel": 1,
+      "nombre": "Escudo"
+    },
+    {
+      "concentracion": false,
+      "desc": "Preparado. Tres dardos que no fallan, 1d4+1 de fuerza cada uno.",
+      "nivel": 1,
+      "nombre": "Proyectil mágico"
+    },
+    {
+      "concentracion": false,
+      "desc": "Preparado. Duerme criaturas hasta sumar 5d8 PG, de menor a mayor.",
+      "nivel": 1,
+      "nombre": "Dormir"
+    },
+    {
+      "concentracion": false,
+      "desc": "Preparado. Toca a alguien: 8 horas sumando 1d8 a su iniciativa. Tarda 1 minuto.",
+      "nivel": 1,
+      "nombre": "Don de presteza"
+    },
+    {
+      "concentracion": false,
+      "desc": "En el libro, sin preparar. Esfera de 3 m: salvación de CON o 2d8 de fuerza y velocidad a la mitad.",
+      "nivel": 1,
+      "nombre": "Aumentar gravedad"
+    },
+    {
+      "concentracion": true,
+      "desc": "En el libro. Ritual: siente magia a 9 m.",
+      "nivel": 1,
+      "nombre": "Detectar magia"
+    },
+    {
+      "concentracion": true,
+      "desc": "En el libro, sin preparar. Salvación de SAB o cae riéndose, incapacitado.",
+      "nivel": 1,
+      "nombre": "Risa horrible de Tasha"
+    }
+  ],
+  "espacios": {
+    "1": {
+      "max": 3,
+      "usados": 0
+    }
+  },
+  "estados": [],
+  "inventario": [
+    "Daga",
+    "Libro de conjuros",
+    "Foco arcano (cristal)",
+    "Paquete de erudito",
+    "Ropa fina",
+    "Anillo con el sello de la Casa Atrodens",
+    "Pergamino de linaje",
+    "Joyas heredadas",
+    "Fragmento de un reloj de cristal",
+    "Llave de la jaula de la Santa Brasa",
+    "Cinta de arpillera de los Descalzos",
+    "25 monedas de oro"
+  ],
+  "jugador": "Marto",
+  "nivel": 2,
+  "nombre": "Gáver Atrodens",
+  "orden": 1,
+  "pg": 14,
+  "pgMax": 14,
+  "rasgos": [
+    {
+      "desc": "Cronurgia. Reacción: obliga a repetir una tirada de ataque, prueba o salvación de alguien a 9 m, después de ver el resultado. 2 usos por descanso largo.",
+      "nombre": "Desplazamiento cronal"
+    },
+    {
+      "desc": "Cronurgia. Suma Inteligencia a la iniciativa: +5 en total.",
+      "nombre": "Conciencia temporal"
+    },
+    {
+      "desc": "Vuela a 9 m. No con armadura media o pesada.",
+      "nombre": "Vuelo de hada"
+    },
+    {
+      "desc": "Truco Saber druídico. A nivel 3 suma Fuego feérico; a nivel 5, Agrandar/Reducir.",
+      "nombre": "Magia feérica"
+    },
+    {
+      "desc": "Tipo de criatura feérico, no humanoide. Tamaño Pequeño.",
+      "nombre": "Feérico y Pequeño"
+    },
+    {
+      "desc": "1 vez por día, tras un descanso corto, recupera 1 espacio de nivel 1.",
+      "nombre": "Recuperación arcana"
+    },
+    {
+      "desc": "Lanza los rituales de su libro sin prepararlos ni gastar espacio (10 minutos más).",
+      "nombre": "Lanzamiento ritual"
+    },
+    {
+      "desc": "Noble: lo reciben en la alta sociedad y puede pedir audiencia con un noble local.",
+      "nombre": "Posición de privilegio"
+    }
+  ],
+  "raza": "Hada",
+  "salvaciones": [
+    "int",
+    "sab"
+  ],
+  "stats": {
+    "car": 12,
+    "con": 14,
+    "des": 14,
+    "fue": 8,
+    "int": 17,
+    "sab": 10
+  },
+  "velocidad": "9 m · vuelo 9 m"
+}

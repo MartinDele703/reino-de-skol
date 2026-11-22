@@ -1,0 +1,69 @@
+{
+  "capitulo": "Sesión 1 · La jaula del puente (cierre)",
+  "combate": {
+    "activo": false,
+    "orden": [
+      {
+        "ini": 16,
+        "nombre": "Zambrano"
+      },
+      {
+        "ini": 15,
+        "nombre": "Rulfo"
+      },
+      {
+        "ini": 9,
+        "nombre": "Gáver"
+      },
+      {
+        "ini": 8,
+        "nombre": "Walvin"
+      },
+      {
+        "ini": 7,
+        "nombre": "Brann"
+      }
+    ],
+    "ronda": 2,
+    "turno": 0
+  },
+  "escena": {
+    "ambiente": "cueva",
+    "lugar": "Cueva de los Descalzos, en lo alto del monte",
+    "objetivo": "Misión cumplida: Tobín está a salvo. Descanso largo completo. Cardo quiere hablar con ustedes por la mañana: tiene una propuesta.",
+    "texto": "Cardo les creyó. Los Descalzos bajaron las ballestas y los recibieron como aliados: fuego, caldo, mantas y un lugar en la cueva.\nEl libro de deudas y las cuarenta monedas quedaron con ellos. Cardo pasó la noche leyendo nombres en voz alta: por primera vez saben quién sigue vivo en la cantera y en los hornos de la abadía.\nA cada uno le ataron al tobillo una cinta de arpillera, la seña de los Descalzos. Dos jinetes del barón rondan el pie del monte, pero el rastro se perdió con la lluvia.\nDurmieron. Amanece.",
+    "titulo": "Una noche en la cueva"
+  },
+  "mapa": {
+    "aqui": "Monte de los Descalzos",
+    "lugares": [
+      {
+        "nombre": "Puente de la Vela",
+        "tipo": "pueblo",
+        "x": 0.42,
+        "y": 0.58
+      },
+      {
+        "nombre": "Abadía de la Santa Brasa",
+        "tipo": "fuerte",
+        "x": 0.68,
+        "y": 0.4
+      },
+      {
+        "nombre": "Castillo de Valdehorca",
+        "tipo": "castillo",
+        "x": 0.3,
+        "y": 0.25
+      },
+      {
+        "nombre": "Monte de los Descalzos",
+        "tipo": "pueblo",
+        "x": 0.52,
+        "y": 0.78
+      }
+    ],
+    "nombre": "Baronía de Valdehorca",
+    "semilla": "skol-valdehorca"
+  },
+  "titulo": "Reino de SKOL"
+}

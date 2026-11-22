@@ -1,0 +1,12 @@
+# Copia vieja del artifact; la versión vigente está en artifact/
+*.zip
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Marcadores internos de la herramienta que bajó los datos
+*,by-others

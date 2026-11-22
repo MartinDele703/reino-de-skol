@@ -1,0 +1,98 @@
+{
+  "ataques": [
+    {
+      "bono": 5,
+      "dano": "1d4+3",
+      "nombre": "Daga curva",
+      "nota": "Perforante. Sutil, ligera, arrojadiza 6/18 m."
+    },
+    {
+      "bono": 5,
+      "dano": "1d4",
+      "nombre": "Segunda daga",
+      "nota": "Acción adicional, solo si atacó con la otra en ese turno."
+    },
+    {
+      "bono": 5,
+      "dano": "1d6+3",
+      "nombre": "Arco corto",
+      "nota": "Perforante. Alcance 24/96 m, a dos manos."
+    }
+  ],
+  "ca": 14,
+  "clase": "Pícaro",
+  "competencias": [
+    "sigilo",
+    "percepcion",
+    "acrobacias",
+    "perspicacia",
+    "supervivencia",
+    "investigacion",
+    "atletismo"
+  ],
+  "estados": [],
+  "inventario": [
+    "2 dagas curvas de hoja oscura",
+    "Arco corto y 19 flechas",
+    "Espada corta",
+    "Armadura de cuero",
+    "Herramientas de ladrón",
+    "Paquete de explorador",
+    "Bastón",
+    "Trampa de caza",
+    "Ropa de viaje",
+    "Flauta",
+    "Cinta de arpillera de los Descalzos",
+    "10 monedas de oro"
+  ],
+  "jugador": "Lechu",
+  "nivel": 2,
+  "nombre": "Zambrano Gutiérrez",
+  "orden": 3,
+  "pg": 16,
+  "pgMax": 16,
+  "rasgos": [
+    {
+      "desc": "Acción adicional para Correr, Destrabarse o Esconderse. Una sola acción adicional por turno.",
+      "nombre": "Acción astuta"
+    },
+    {
+      "desc": "Acción adicional, 1 minuto: 4 PG temporales y +3 m de velocidad. Reacción: si una criatura termina su turno a 1,5 m, se mueve 3 m sin provocar ataques de oportunidad. 2 usos por descanso largo.",
+      "nombre": "Transformación (Paso veloz)"
+    },
+    {
+      "desc": "+1d6 de daño, una vez por turno, con ventaja o con un aliado a 1,5 m del objetivo.",
+      "nombre": "Ataque furtivo"
+    },
+    {
+      "desc": "Doble competencia: Sigilo +7 y Percepción +6 (percepción pasiva 16). Valen estos números, no los que calcula la mesa.",
+      "nombre": "Pericia experta"
+    },
+    {
+      "desc": "18 m.",
+      "nombre": "Visión en la oscuridad"
+    },
+    {
+      "desc": "Lenguaje secreto de señas y símbolos del hampa.",
+      "nombre": "Jerga de ladrones"
+    },
+    {
+      "desc": "Forastero: recuerda mapas y terreno, y encuentra comida y agua para seis por día.",
+      "nombre": "Trotamundos"
+    }
+  ],
+  "raza": "Shifter",
+  "salvaciones": [
+    "des",
+    "int"
+  ],
+  "stats": {
+    "car": 10,
+    "con": 14,
+    "des": 17,
+    "fue": 8,
+    "int": 12,
+    "sab": 14
+  },
+  "velocidad": "9 m"
+}
